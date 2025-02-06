@@ -22,11 +22,18 @@
             "groups": [
                {
                   "group": "Introduction",
-                  "pages": ["introduction", "step-by-step-tutorial", "FAQ"]
+                  "pages": ["introduction", "FAQ"]
+               },
+               {
+                  "group": "User Guides",
+                  "pages": ["step-by-step-tutorial"]
                },
                {
                   "group": "Integrations",
-                  "pages": ["integrations/supabase"]
+                  "pages": [
+                     "integrations/third-party-integration",
+                     "integrations/supabase"
+                  ]
                }
             ]
          }

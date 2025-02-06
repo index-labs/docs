@@ -1,0 +1,31 @@
+---
+title: Third Party Integration
+description: Integrate third party sdk or api into your Devv Project
+icon: network-wired
+---
+
+Devv Builder offers seamless integration capabilities, empowering you to connect with external services and leverage third-party tools within your AI-generated APIs. We provide both native integrations and support for non-native integrations to maximize flexibility.
+
+## Native Integrations
+
+<CardGroup cols={2}>
+   <Card
+      title="Supabase Integration"
+      icon="database"
+      href="/integrations/supabase"
+   >
+      Connect Supabase to your Devv project
+   </Card>
+</CardGroup>
+
+## Non-Native Integrations
+
+Beyond native integrations, Devv Builder provides the flexibility to incorporate any third-party SDK or API. To use them, you should include necessary context in your prompt to make sure Devv could use external capabilities correctly.
+
+### Key Considerations for Non-Native Integrations:
+
+-  Dependency Management: Ensure that all necessary dependencies are included within your prompt.
+-  Authentication: Handle authentication and authorization for external services appropriately by filling necessary environment variables in `Config`.
+-  Error Handling: Implement robust error handling to manage potential issues with external services.
+
+This flexible approach allows you to extend the functionality of your Devv Builder projects and tailor them to your specific needs. By combining the power of AI-generated APIs with the vast ecosystem of third-party tools, you can build sophisticated applications with minimal effort.
