@@ -1,6 +1,6 @@
 # Devv official documentation
 
-### [Documentation Website](https://devv.mintlify.app/introduction)
+### [Documentation Website](https://docs.devv.ai)
 
 ### [Visit our App](https://devv.ai/build)
 
