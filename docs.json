@@ -12,8 +12,8 @@
       "dark": "/logo/logo-dark.svg"
    },
    "favicon": {
-      "dark": "/favicon-dark.png",
-      "light": "/favicon-light.png"
+      "dark": "/favicon-dark.svg",
+      "light": "/favicon-light.svg"
    },
    "navigation": {
       "tabs": [
