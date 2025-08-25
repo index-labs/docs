@@ -22,18 +22,27 @@
             "groups": [
                {
                   "group": "Introduction",
-                  "pages": ["introduction", "FAQ"]
+                  "pages": ["introduction", "FAQ", "step-by-step-tutorial"]
+               }
+            ]
+         },
+         {
+            "tab": "Integrations",
+            "groups": [
+               {
+                  "group": "Introduction",
+                  "pages": ["/integrations/introduction"]
                },
                {
-                  "group": "User Guides",
-                  "pages": ["step-by-step-tutorial"]
-               },
-               {
-                  "group": "Integrations",
+                  "group": "Native Integrations",
                   "pages": [
-                     "integrations/third-party-integration",
-                     "integrations/supabase"
+                     "/integrations/devv-database",
+                     "/integrations/authentication"
                   ]
+               },
+               {
+                  "group": "Third-party Integration",
+                  "pages": ["/integrations/openrouter"]
                }
             ]
          }

@@ -2,7 +2,7 @@
 
 ### [Documentation Website](https://docs.devv.ai)
 
-### [Visit our App](https://devv.ai/build)
+### [Visit our App](https://devv.ai)
 
 ### Development
 
