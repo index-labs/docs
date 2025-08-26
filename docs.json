@@ -37,7 +37,10 @@
                   "group": "Native Integrations",
                   "pages": [
                      "/integrations/devv-database",
-                     "/integrations/authentication"
+                     "/integrations/authentication",
+                     "/integrations/web-reader",
+                     "/integrations/web-search",
+                     "/integrations/devv-email"
                   ]
                },
                {
