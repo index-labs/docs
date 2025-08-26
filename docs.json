@@ -22,7 +22,7 @@
             "groups": [
                {
                   "group": "Introduction",
-                  "pages": ["introduction", "FAQ", "step-by-step-tutorial"]
+                  "pages": ["introduction", "FAQ", "getting-started"]
                }
             ]
          },
@@ -42,7 +42,10 @@
                },
                {
                   "group": "Third-party Integration",
-                  "pages": ["/integrations/openrouter"]
+                  "pages": [
+                     "/integrations/openrouter",
+                     "/integrations/elevenlabs"
+                  ]
                }
             ]
          }
