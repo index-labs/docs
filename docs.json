@@ -40,14 +40,16 @@
                      "/integrations/authentication",
                      "/integrations/web-reader",
                      "/integrations/web-search",
-                     "/integrations/devv-email"
+                     "/integrations/devv-email",
+                     "/integrations/llm"
                   ]
                },
                {
                   "group": "Third-party Integration",
                   "pages": [
                      "/integrations/openrouter",
-                     "/integrations/elevenlabs"
+                     "/integrations/elevenlabs",
+                     "/integrations/replicate"
                   ]
                }
             ]
