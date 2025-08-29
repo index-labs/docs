@@ -41,7 +41,8 @@
                      "/integrations/web-reader",
                      "/integrations/web-search",
                      "/integrations/devv-email",
-                     "/integrations/llm"
+                     "/integrations/llm",
+                     "/integrations/nano-banana"
                   ]
                },
                {
